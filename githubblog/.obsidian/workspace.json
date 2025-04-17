@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "_posts/2025-04-15-Lovable.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-04-15-Lovable"
+            }
+          },
+          {
+            "id": "6f6bbfcbd24312c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-17-AGI.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-17-AGI"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,6 +256,7 @@
   "active": "97c2242ba838f1bb",
   "lastOpenFiles": [
     "_posts/2025-04-15-Lovable.md",
+    "_posts/2025-04-17-AGI.md",
     "Untitled.md",
     "_posts/2025-04-11-Memory.md",
     "_posts/2025-04-10-obsidian-jekyll-minimalist.md",
